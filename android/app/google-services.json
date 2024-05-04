@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223628149404",
+    "project_id": "expopush-445f0",
+    "storage_bucket": "expopush-445f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223628149404:android:cd0a9b864c79ec031da359",
+        "android_client_info": {
+          "package_name": "com.hasithgenesis.expopushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpDCaAy0NSWu25WI8vosc8mtLKCahFVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
